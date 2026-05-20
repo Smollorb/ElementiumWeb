@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1779121817|5932433';
+const CACHE_VERSION = '1779255055|6231642';
 /** @type {string} */
 const CACHE_PREFIX = 'Elementium-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
